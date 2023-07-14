@@ -1,1 +1,1 @@
-https://user-images.githubusercontent.com/112140135/253687209-ba99b0ef-6935-40b9-8485-cd613f40e653.png
+![image](https://github.com/MunGyuJang/JavsScript-Study/assets/112140135/b383ce4a-72f3-45b0-b750-113fec1677fe)
